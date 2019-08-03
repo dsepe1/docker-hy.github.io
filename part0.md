@@ -8,7 +8,7 @@ order: 0
 
 ## General ##
 
-This course is an introductory course to Docker and docker-compose. The course will also look into what different parts web services consist of, such as reverse proxies, databases, etc. Docker can not be installed on faculty computers, so students will need to provide their own computers to follow the examples outlined in this course material and to complete the exercises.
+This course is an introductory course to Docker and docker-compose. The course will also look into what different parts web services consist of, such as reverse proxies, databases, etc. Docker cannot be installed on faculty computers, so students will need to provide their own computers to follow the examples outlined in this course material and to complete the exercises.
 
 ### Prerequisites ###
 
@@ -16,7 +16,7 @@ Attendees need to provide their own computers with admin/superuser priviledges. 
 
 ### Course material ###
 
-The course material is meant to be read sequentially, part by part, from start to finish. To get a passing grade you have to complete each exercise, although one exercise can be skipped for each part. Some of the exercises are marked as mandatory and those can not be skipped. The exercies are placed in the material in such a way that you will have learned the necessary skills from the material prior to each given exercise. You can do the exercises as you're going through the material.
+The course material is meant to be read sequentially, part by part, from start to finish. To get a passing grade you have to complete each exercise, although one exercise can be skipped for each part. Some of the exercises are marked as mandatory and those can not be skipped. The exercises are placed in the material in such a way that you will have learned the necessary skills from the material prior to each given exercise. You can do the exercises as you're going through the material.
 
 The course material is written for Ubuntu, so some instructions may lack platform specific details. Please make a [pull request](https://docker-hy.github.io/contributing) to the course material in case you find any mistakes or wish to add something. You can also [contribute](https://docker-hy.github.io/contributing) through github in case you find any issues with the course material.
 
@@ -24,7 +24,7 @@ The course material is written for Ubuntu, so some instructions may lack platfor
 
 The course is composed of 4 parts, first of which is part 0 and contains the pre-requisites for all the upcoming exercises. The parts should take 5-25 hours each to complete.
 
-Remember to enrol for the course through courses page: <https://courses.helsinki.fi/en/aytkt21025en/129059389>. After filling the form, **it will take 1 day for your registration to activate**, after which you'll get access to the last exercise through moodle. This is required to get the credits.
+Remember to enrol for the course through courses page: <https://courses.helsinki.fi/en/aytkt21025en/129059389>. After filling the form, **it will take 1 day for your registration to activate**, after which you'll get access to the last exercise through Moodle. This is required to get the credits.
 
 ### Grading ##
 
@@ -55,13 +55,13 @@ As we're trying to make the course as accessible as possible, the course has mul
 
 ### Starting lecture ###
 
-Slides for a previous starting lecture can be found [here](https://docs.google.com/presentation/d/1op-PxjIoCZ1k-o1JO1h9UhqZFYVMTcYHAQD-XrzwoIo/edit?usp=sharing)
+Slides for a previous starting lecture can be found [here](https://docs.google.com/presentation/d/1op-PxjIoCZ1k-o1JO1h9UhqZFYVMTcYHAQD-XrzwoIo/edit?usp=sharing).
 
 ### Telegram ###
 
-This course has a Telegram group where we discuss everything about the course. Support is available almost 24/7, with discussion being in both English and Finnish.
+This course has a Telegram group where we discuss everything about the course. Support is available almost 24/7, with discussions being in both English and Finnish.
 
-Join our telegram group [here](https://t.me/joinchat/HIg2vkuQ1T4QUPJDxIgshQ).
+Join our Telegram group [here](https://t.me/joinchat/HIg2vkuQ1T4QUPJDxIgshQ).
 
 **All** inappropriate, degrading or discriminating comments on the channel are prohibited and will lead to action taken against the commenter.
 
@@ -93,8 +93,8 @@ Confirm that docker-compose installed correctly by opening a terminal and runnin
 
 ### First exercise ###
 
-Do the first exercise over **[here](/exercises/#first-exercise)**
+Do the first exercise over **[here](/exercises/#first-exercise)**.
 
 ### Mistakes: ###
 
-Please read about [contributing](https://docker-hy.github.io/contributing)
+Please read about [contributing](https://docker-hy.github.io/contributing).
